@@ -2,8 +2,8 @@ def conference_badges
 puts "Hello, _____! You'll be assigned to room _____!"
 end
 
-def badge_maker(name)
-  puts "Hello, my name is #{name}."
+def badge_maker(Arel)
+  puts "Hello, my name is Arel."
 end
 
 # def batch_badge_creator
