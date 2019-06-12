@@ -3,7 +3,7 @@ puts "Hello, _____! You'll be assigned to room _____!"
 end
 
 def badge_maker("Arel")
-  puts "Hello, my name is #{name}."
+  puts "Hello, my name is ."
 end
 
 # def batch_badge_creator
