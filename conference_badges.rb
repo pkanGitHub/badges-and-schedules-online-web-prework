@@ -1,7 +1,3 @@
-def conference_badges
-puts "Hello, _____! You'll be assigned to room _____!"
-end
-
 def badge_maker(name)
    return "Hello, my name is #{name}."
 end
